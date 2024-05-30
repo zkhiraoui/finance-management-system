@@ -1,0 +1,6 @@
+cd ~/finance-management-system
+git init
+touch .gitignore
+echo "venv/" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore

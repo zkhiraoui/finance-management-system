@@ -17,51 +17,28 @@ The Personal Finance Management System is a web application designed to help use
 finance-management-system/
 
 ├── backend/
-
 │ ├── app/
-
 │ │ ├── init.py
-
 │ │ ├── models.py
-
 │ │ ├── routes.py
-
 │ │ ├── config.py
-
 │ │ ├── auth.py
-
 │ ├── migrations/
-
 │ ├── .env
-
 │ ├── run.py
-
 │ ├── requirements.txt
-
 │ ├── README.md
-
 ├── frontend/
-
 │ ├── static/
-
 │ │ ├── css/
-
 │ │ │ └── styles.css
-
 │ │ ├── js/
-
 │ │ │ └── scripts.js
-
 │ ├── templates/
-
 │ │ ├── index.html
-
 │ │ ├── login.html
-
 │ │ ├── register.html
-
 │ │ ├── dashboard.html
-
 │ ├── README.md
 
 
